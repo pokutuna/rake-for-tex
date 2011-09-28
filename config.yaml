@@ -1,0 +1,5 @@
+target:   sample    # 対象のtexファイルの名前
+bb_cmd:   ebb       # .bbファイルを生成するコマンド
+tex_cmd:  platex    # .texをコンパイルするコマンド
+dvi_cmd:  dvipdfmx  # .dviをコンパイルするコマンド
+open_cmd: open      # できたpdfを開くコマンド
